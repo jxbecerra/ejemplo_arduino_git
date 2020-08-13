@@ -1,1 +1,1 @@
-# ejemplo_arduino_git
+# Ejemplo para demostracion de como usar git con el cliente de github
